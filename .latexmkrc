@@ -14,3 +14,6 @@ $ENV{"TEXMFHOME"} = "?";
 $ENV{"BIBINPUTS"} = "./include//:";
 $ENV{"BSTINPUTS"} = "./include//:";
 $ENV{"TEXINPUTS"} = "./include//:";
+
+# Remove beamer generated files
+$clean_ext = "nav out snm";
