@@ -1,6 +1,7 @@
-# Latex Paper Template
+# Latex Slides Template
 
-This contains a simple template including our bibliography and comments style setup to build with [latexmk] out of the box.
+This repository contains a simple template for producing (blue) slides with LaTeX's beamer class.
+It is setup to build with [latexmk] out of the box.
 
 Please read our [collaboration guide] before using this template.
 

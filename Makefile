@@ -1,8 +1,8 @@
 all:
-	latexmk paper.tex -pdf
+	latexmk slides.tex -pdf
 
 watch:
-	latexmk paper.tex -pdf -pvc
+	latexmk slides.tex -pdf -pvc
 
 clean:
-	latexmk paper.tex -pdf -C
+	latexmk slides.tex -pdf -C
