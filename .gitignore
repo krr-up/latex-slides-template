@@ -4,9 +4,14 @@
 *.fdb_latexmk
 *.fls
 *.log
+*.nav
+*.out
 *.run.xml
+*.snm
 *.synctex.gz
 *.tex.latexmain
+*.toc
+*.vrb
 paper.pdf
 paper.bbl
 _region_.*
