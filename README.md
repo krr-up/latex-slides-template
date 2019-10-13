@@ -7,12 +7,12 @@ Please read our [collaboration guide] before using this template.
 
 ## Building
 
-Before building this paper, the following packages need to be installed:
+Before building the slides, the following packages need to be installed:
 
 - [latexmk]
   (see [installation instructions](https://latextools.readthedocs.io/en/latest/install/))
 
-A [Makefile](Makefile) is provided to build the paper:
+A [Makefile](Makefile) is provided to build the slides:
 
 ```sh
 $ make
